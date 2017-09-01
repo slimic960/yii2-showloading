@@ -15,7 +15,7 @@ Simply add extension to your composer.json:
 ``` js
 {
     "require": {
-        "nirvana-msu/yii2-showloading": "1.0.*@dev"
+        "slimic960/yii2-showloading": "1.0.*@dev"
     }
 }
 ```
