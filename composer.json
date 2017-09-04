@@ -1,5 +1,5 @@
 {
-    "name": "slimic960/yii2-showloading",
+    "name": "slimic/yii2-showloading",
     "description": "Yii2 extension for showLoading jQuery plugin",
     "keywords": [
         "yii2",
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "nirvana\\showloading\\": ""
+            "slimic\\showloading\\": ""
         }
     },
     "extra": {
