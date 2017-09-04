@@ -1,5 +1,5 @@
 {
-    "name": "nirvana-msu/yii2-showloading",
+    "name": "slimic960/yii2-showloading",
     "description": "Yii2 extension for showLoading jQuery plugin",
     "keywords": [
         "yii2",
@@ -12,19 +12,9 @@
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/nirvana-msu/yii2-showloading/issues",
-        "source": "https://github.com/nirvana-msu/yii2-showloading"
+        "issues": "https://github.com/slimic960/yii2-showloading/issues",
+        "source": "https://github.com/slimic960/yii2-showloading"
     },
-    "authors": [
-        {
-            "name": "Jim Keller",
-            "homepage": "http://www.contextllc.com"
-        },
-        {
-            "name": "Alexander Stepanov",
-            "email": "student_vmk@mail.ru"
-        }
-    ],
     "require": {
         "yiisoft/yii2": "*"
     },
