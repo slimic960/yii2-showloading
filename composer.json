@@ -1,6 +1,7 @@
 {
     "name": "slimic/yii2-showloading",
     "description": "Yii2 extension for showLoading jQuery plugin",
+    "version": "1.0.0",
     "keywords": [
         "yii2",
         "showLoading",
