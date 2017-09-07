@@ -5,7 +5,7 @@
  * @license MIT
  */
 
-namespace nirvana\showloading;
+namespace slimic960\showloading;
 
 use Yii;
 use yii\web\AssetBundle;
@@ -15,7 +15,7 @@ use yii\web\AssetBundle;
  */
 class ShowLoadingAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/nirvana-msu/yii2-showloading/assets';
+    public $sourcePath = '@vendor/slimic960/yii2-showloading/assets';
     public $css = [
         'css/showLoading.css',
     ];

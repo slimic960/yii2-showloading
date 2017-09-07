@@ -11,16 +11,12 @@
     ],
     "type": "yii2-extension",
     "license": "MIT",
-    "support": {
-        "issues": "https://github.com/slimic960/yii2-showloading/issues",
-        "source": "https://github.com/slimic960/yii2-showloading"
-    },
     "require": {
         "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
-            "slimic\\showloading\\": ""
+            "slimic960\\showloading\\": ""
         }
     },
     "extra": {

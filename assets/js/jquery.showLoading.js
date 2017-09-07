@@ -1,14 +1,4 @@
-﻿/*
- * jQuery showLoading plugin v1.0
- * 
- * Copyright (c) 2009 Jim Keller
- * Context - http://www.contextllc.com
- * 
- * Dual licensed under the MIT and GPL licenses.
- *
- */
-
-	jQuery.fn.showLoading = function(options) {
+﻿	jQuery.fn.showLoading = function(options) {
 		
 		var indicatorID;
        		var settings = {
